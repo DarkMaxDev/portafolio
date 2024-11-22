@@ -300,6 +300,6 @@ export const dataTestimonials = [
         name: "TakeOver",
         description:
             "¡Increíble Tienda Online! Esperamos ya ponerla a funcionar a inicios del siguiente año. ¡Altamente recomendado!",
-        imageUrl: "/profile-1.jpeg",
+        imageUrl: "/imagen.jpeg",
     }
 ];
