@@ -8,7 +8,7 @@ const Introduction = () => {
     return (  
         <Container>
             <div className="text-center" id="home">
-                <h3 className="text-xl mb-3">Hello I'm</h3>
+                <h3 className="text-xl mb-3">Hello I am</h3>
                 <h1 className="text-4xl fond-nold mb-3">DarkMaxDev</h1>
                 <h2 className="text-2xl text-gray-400">Technical Support and Full Stack Developer</h2>
                 <div className="flex items-center">
